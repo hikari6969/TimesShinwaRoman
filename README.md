@@ -17,15 +17,19 @@ The original Nimbus Roman appears visually closer to Linotype's Times than to Mo
 ### Font Preview
 
 Regular: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_regular.png)
 
 Bold: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bold.png)
 
 Italic: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_italic.png)
 
 Bold Italic: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bolditalic.png)
 
 ### Licence and Usage
@@ -51,15 +55,19 @@ You are welcome to use the font in documents, publications, graphic designs, sof
 ### 字体预览
 
 常规: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_regular.png)
 
 粗体: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bold.png)
 
 斜体: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_italic.png)
 
 粗斜体: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bolditalic.png)
 
 ### 许可证与使用方式
@@ -85,15 +93,19 @@ Times Shinwa Roman 采用 **SIL Open Font License（SIL 开放字体许可证，
 ### フォントプレビュー
 
 標準 / レギュラー: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_regular.png)
 
 太字 / ボールド: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bold.png)
 
 斜体 / イタリック: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_italic.png)
 
 太斜体 / ボールドイタリック: 
+
 ![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bolditalic.png)
 
 ### ライセンスと使用条件

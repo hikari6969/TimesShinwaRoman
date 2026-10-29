@@ -1,4 +1,5 @@
-Copyright 2021-2026 LXGW (https://github.com/lxgw/LxgwWenKai), with Reserved Font Name 'Shinwa', '神话', 'しんわ' and '神話'. 
+Copyright 2026 hikari6969 (https://github.com/hikari6969/TimesShinwaRoman), with Reserved Font Name 'Shinwa', '神话', 'しんわ' and '神話'. 
+Copyright 2016 URW++ and the Nimbus Roman Project Authors (https://github.com/twardoch/urw-core35-fonts)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -14,6 +14,20 @@
 
 The original Nimbus Roman appears visually closer to Linotype's Times than to Monotype's Times New Roman. This project aims to bridge that visual gap by modifying Nimbus Roman to make it a more suitable alternative to Times New Roman.
 
+### Font Preview
+
+Regular: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_regular.png)
+
+Bold: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bold.png)
+
+Italic: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_italic.png)
+
+Bold Italic: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bolditalic.png)
+
 ### Licence and Usage
 
 Times Shinwa Roman is distributed under the **SIL Open Font License (OFL)**. It may be used for personal, professional, and commercial projects, subject to the terms of the licence.
@@ -34,6 +48,20 @@ You are welcome to use the font in documents, publications, graphic designs, sof
 
 原版 Nimbus Roman 的视觉风格似乎更接近 Linotype 公司的 Times，而非 Monotype 公司的 Times New Roman。本项目通过修改 Nimbus Roman，尝试缩小两者之间的视觉差异，使其成为更适合替代 Times New Roman 的字体。
 
+### 字体预览
+
+常规: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_regular.png)
+
+粗体: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bold.png)
+
+斜体: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_italic.png)
+
+粗斜体: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bolditalic.png)
+
 ### 许可证与使用方式
 
 Times Shinwa Roman 采用 **SIL Open Font License（SIL 开放字体许可证，简称 OFL）** 发布。在遵守许可证条款的前提下，用户可以将其用于个人、专业及商业项目。
@@ -53,6 +81,20 @@ Times Shinwa Roman 采用 **SIL Open Font License（SIL 开放字体许可证，
 **Times Shinwa Roman（タイムズ神話ローマン）** は、Times New Roman により近い字形を目指して Nimbus Roman を改変したフォントです。
 
 オリジナルの Nimbus Roman は、Monotype の Times New Roman よりも、Linotype の Times に近い印象を与えます。本プロジェクトでは、Nimbus Roman の字形を調整することで、両者の視覚的な違いを縮め、Times New Roman の代替フォントとしてより使いやすくすることを目指しています。
+
+### フォントプレビュー
+
+標準 / レギュラー: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_regular.png)
+
+太字 / ボールド: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bold.png)
+
+斜体 / イタリック: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_italic.png)
+
+太斜体 / ボールドイタリック: 
+![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_bolditalic.png)
 
 ### ライセンスと使用条件
 

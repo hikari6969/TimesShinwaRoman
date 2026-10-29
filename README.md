@@ -18,7 +18,7 @@ The original Nimbus Roman appears visually closer to Linotype's Times than to Mo
 
 Regular: 
 
-![](https://raw.githubusercontent.com/hikari6969/TimesShinwaRoman/preview/preview_regular.png)
+![](preview/preview_regular.png)
 
 Bold: 
 
